@@ -1,0 +1,21 @@
+body {
+	background-color: rgb(2, 22, 92);
+	color: white;
+}
+
+#cat-container {
+	margin-top: 30px;
+	padding: 5px;
+	border: 1px solid white;
+	width: 300px;
+}
+
+#cat-container img {
+	width: 90%;
+}
+
+#main {
+	transform: rotate(-5deg);
+	margin-top: 20px;
+	margin-left: 50px;
+}
